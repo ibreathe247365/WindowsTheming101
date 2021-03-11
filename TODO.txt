@@ -1,0 +1,4 @@
+1.Battery status
+2.Dock/taskbar icons
+3.Foobar
+4.dark mode -> dracula
