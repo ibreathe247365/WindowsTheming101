@@ -22,7 +22,9 @@ Here we will install Dracula theme for windows,vscode,windows terminal ,chrome a
   2.Install pre-requisites like Startisback and icons before patching and applying the theme.<br>
   3.Individual app tutorials can be found on draculatheme website.<br>
   4.Enjoy!<br>
-  
+
+4.Credits:<br>
+  deviantart,windowscustomization,r/unixporn,winthemers,betterdiscord,draculatheme,everyone else I cant recall..<br>
 Final result:-
 ![image](https://user-images.githubusercontent.com/76894659/110827795-6d0d9000-82bc-11eb-8510-5f47c962ac54.png)
 ![image](https://user-images.githubusercontent.com/76894659/110827414-0c7e5300-82bc-11eb-95b3-5e204e01bb54.png)
