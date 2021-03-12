@@ -2,3 +2,6 @@
 2.Dock/taskbar icons
 3.Foobar
 4.dark mode -> dracula
+5.Volume button
+6.Charge status
+7.Shortcut keys.
