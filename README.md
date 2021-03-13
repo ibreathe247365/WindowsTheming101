@@ -30,3 +30,7 @@ Final result:-
 ![image](https://user-images.githubusercontent.com/76894659/110827414-0c7e5300-82bc-11eb-95b3-5e204e01bb54.png)
 ![image](https://user-images.githubusercontent.com/76894659/110827434-11db9d80-82bc-11eb-9bfa-4f5dbbfe2c2a.png)
 ![image](https://user-images.githubusercontent.com/76894659/110827447-156f2480-82bc-11eb-895d-a78a71aa72c5.png)
+<br>
+DPI scaling fix for windows 10 20H2:<br>
+Kill the app from task manager>Go to properties>Compatibility>set options as below>Profit!
+![image](https://user-images.githubusercontent.com/76894659/111029824-c7c1fb80-8424-11eb-9112-886a40efd2dd.png)
